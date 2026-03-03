@@ -116,3 +116,5 @@ Project Documentation: This file is used to tell others (and my future self) wha
 
 [View Live Demo](https://github.com/PURITY-MURIITHI/iyf-s10-week-01-PURITY-MURIITHI.git)
 This portfolio demonstrates terminal and Git mastery.
+
+Conflict Resolved: Kept Version B logic.
